@@ -1,0 +1,99 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "historia_animacion",
+    "title": "1. Historia de la animación",    
+    "path": "pages/tema-1.html"    
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "tecnicas_animacion",
+    "title": "2. Técnicas de animación",    
+    "path": "pages/tema-2.html"      
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "animacion_clasica",
+    "title": "2.1 Animacion tradicional o clásica",    
+    "path": "pages/tema-2-1.html"    
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "stop_motion",
+    "title": "2.2 Stop motion",    
+    "path": "pages/tema-2-2.html"    
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "animacion_cgi",
+    "title": "2.3 Animación por computadora o CGI",    
+    "path": "pages/tema-2-3.html"    
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "esquema_produccion_audiovisual",
+    "title": "3. Esquema de producción audiovisual",    
+    "path": "pages/tema-3.html"       
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_desarrollo",
+    "title": "3.1 Etapa 1: desarrollo",    
+    "path": "pages/tema-3-1.html"    
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_preproduccion",
+    "title": "3.2 Etapa 2: preproducción",    
+    "path": "pages/tema-3-2.html"    
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_produccion",
+    "title": "3.3 Etapa 3: producción",    
+    "path": "pages/tema-3-3.html"    
+  },
+  {
+    "id": 10,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_posproduccion",
+    "title": "3.4 Etapa 4: posproducción",    
+    "path": "pages/tema-3-4.html"    
+  },
+  {
+    "id": 11,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_distribucion",
+    "title": "3.5 Etapa 4: distribución",    
+    "path": "pages/tema-3-5.html"    
+  },
+  {
+    "id": 12,
+    "icon": "fa fa-file-text",
+    "slug": "trabajo_colaborativo",
+    "title": "4. Trabajo colaborativo",    
+    "path": "pages/tema-4.html"    
+  },
+  {
+    "id": 13,
+    "icon": "fa fa-file-text",
+    "slug": "principio_kiss",
+    "title": "5. Principio KISS",    
+    "path": "pages/tema-5.html"    
+  } 
+]
